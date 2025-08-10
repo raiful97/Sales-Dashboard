@@ -41,7 +41,7 @@ This dashboard supports decision-makers in:
 - Map chart displaying total orders with continent slicer
 - Bubble map with total orders tooltip
 
-<img src="images/dashboard2.png" width="700">
+<img src="[images/dashboard2.png](https://github.com/raiful97/Sales-Dashboard/blob/main/Map.jpg)" width="700">
 
 ---
 
@@ -51,7 +51,7 @@ This dashboard supports decision-makers in:
 - Line chart with profit trending and parameter for price adjustment
 - Line chart for return, revenue, profit, returns, and return rate with slicer
 
-<img src="images/dashboard3.png" width="700">
+<img src="[images/dashboard3.png](https://github.com/raiful97/Sales-Dashboard/blob/main/Product%20Details.jpg)" width="700">
 
 ---
 
@@ -62,6 +62,6 @@ This dashboard supports decision-makers in:
 - Table of top 100 customers with full names, orders, and revenue
 - Slicer for date and note filter for top customer in 2022
 
-<img src="images/dashboard4.png" width="700">
+<img src="[images/dashboard4.png](https://github.com/raiful97/Sales-Dashboard/blob/main/Customer%20Details.jpg)" width="700">
 
 
