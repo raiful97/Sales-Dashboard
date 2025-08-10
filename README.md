@@ -20,6 +20,9 @@ Data Modeling using relationships between tables (fact and dimension) to ensure 
 DAX measures for calculating dynamic metrics like revenue growth, sales trends, and profit margins.
 Interactive Visuals such as funnel charts, bar charts with secondary stepped lines, and map visualizations with filters, making it easy to explore the data in-depth.
 
+1.Executive Dashboard
+https://github.com/raiful97/Sales-Dashboard/blob/main/Executive%20Dashboard.jpg
+
 Features
 Line chart of revenue trending
 Bar chart of orders by category
