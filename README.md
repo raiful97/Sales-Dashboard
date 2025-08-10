@@ -25,7 +25,7 @@ This dashboard supports decision-makers in:
 
 ## 📌 Dashboard Features
 
-### 1️⃣ Revenue & Orders
+### 1️⃣ Executive Dashboard
 - Line chart of revenue trending
 - Bar chart of orders by category
 - Cards showing revenue, profit, orders, return rate, monthly revenue, monthly orders, and monthly returns
@@ -33,7 +33,7 @@ This dashboard supports decision-makers in:
 - Cards showing most ordered and most returned product types
 - Slicer for year and continent in a collapsible panel
 
-<img src="images/dashboard1.png" width="700">
+<img src="https://github.com/raiful97/Sales-Dashboard/blob/main/Executive%20Dashboard.jpg" width="700">
 
 ---
 
